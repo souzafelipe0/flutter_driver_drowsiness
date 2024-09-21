@@ -1,4 +1,4 @@
-# flutter_driver_drowsiness
+# Flutter Driver Drowsiness
 
 A flutter application aimed at detecting drowsiness in drivers.
 
