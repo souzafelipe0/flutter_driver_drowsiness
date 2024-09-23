@@ -4,7 +4,6 @@ class WarningBlinkIcon extends StatefulWidget {
   const WarningBlinkIcon({super.key});
 
   @override
-  // ignore: library_private_types_in_public_api
   _BlinkIconState createState() => _BlinkIconState();
 }
 
